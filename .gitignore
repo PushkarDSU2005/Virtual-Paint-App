@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+mp_env/
+.venv/
+venv/
+
+# OpenCV output images
+paint_*.png
